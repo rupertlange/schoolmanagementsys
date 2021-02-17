@@ -6,3 +6,5 @@ management system for schools and their finances. It's
 very basic but was good practice for me.
 
 Thanks for reading!
+
+Rupert Lange
